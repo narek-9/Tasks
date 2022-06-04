@@ -39,7 +39,6 @@ int[,] Replace(int[,] array)
     }
     return array;
 }
-
 int[,] arr = GetArray(2, 8);
 PrintArray(arr);
 Console.WriteLine();
